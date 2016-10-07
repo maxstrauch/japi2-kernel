@@ -16,6 +16,8 @@ This repository provides the following project resources:
  - The Java Doc of this project in the subfolder `dist/javadoc/`.
  - The executable Japi 2 kernel as JAR file in [`dist/japi2.jar`](/dist/japi2.jar?raw=true).
 
+**Tip:** you'll find screenshots of some Japi 2 kernel GUI components on my project archive [here](http://maxstrauch.github.io/projects/japi2-kernel/index.html). *Check it out!*
+
 # Usage
 
 This project only aims on porting the Japi kernel. To get runnable examples please take a look at the Japi project page [here](https://userpages.uni-koblenz.de/~evol/japi/japi.html) and download the complete source tree. Place all files and folders of this repository in the `java` subfolder of the Japi source tree and compile it. Then the Japi 2 kernel will be compiled into the Japi library and ready to use.
