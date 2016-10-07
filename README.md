@@ -2,10 +2,9 @@
 
 [![Collage of Japi2 kernel](/screenshot_small.jpg?raw=true "Collage of Japi2 kernel")](japi_collage_big.png?raw=true).
 
-> Japi is an open source free software GUI toolkit, which makes it easy to develop platform independent applications. Written in JAVA and C, Japi provides the JAVA AWT Toolkit to non object oriented Languages like C, Fortran, Pascal and even Basic. 
-> - [The official project page](https://userpages.uni-koblenz.de/~evol/japi/japi.html)
+> *Japi is an open source free software GUI toolkit, which makes it easy to develop platform independent applications. Written in JAVA and C, Japi provides the JAVA AWT Toolkit to non object oriented Languages like C, Fortran, Pascal and even Basic.* - [The official project page](https://userpages.uni-koblenz.de/~evol/japi/japi.html)
 
-Japi uses a Java application called **Japi kernel** which acts like a X server and displays the controls requested by the Japi C library. Therefore C programs can easily be extended by a (simple) GUI.
+Japi uses a Java application called *Japi kernel* which acts like a X server and displays the controls requested by the Japi C library. Therefore C programs can easily be extended by a (simple) GUI.
 
 The original Japi kernel uses the AWT GUI library provided by Java. Since this toolkit is very old this project aimed to port the Japi kernel to the SWING GUI toolkit providing more modern GUI elements.
 
